@@ -21,3 +21,6 @@ This repository contains a data analytics capstone project evaluating sales perf
 
 ## 🛠️ Tools Used
 * **Microsoft Excel** (Data transformation, modeling, and dashboard creation)
+
+## 🖼️ Dashboard Preview
+![TNMT Retail Sales Dashboard](./dashboard.png)
